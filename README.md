@@ -1,17 +1,16 @@
 # ENCHANTED SHOES
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loja de Sapatilhas</title>
+  <title>Enchanted Shoes</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <h1>Sapatilhas & Dança</h1>
-    <p>Elegância e conforto para os seus passos</p>
+    <p>Desde 1992 entregando conforto, beleza e qualidade com muito amor!</p>
   </header>
 
   <main class="produtos">
