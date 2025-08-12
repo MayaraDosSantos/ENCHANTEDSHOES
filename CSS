@@ -5,8 +5,8 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  font-family: Georgina, sans-serif;
+  background-color: #985cad;
   color: #333;
 }
 
@@ -34,7 +34,7 @@ header p {
 }
 
 .produto {
-  background-color: #fff;
+  background-color: #ac00f7;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   width: 280px;
@@ -61,7 +61,7 @@ header p {
 .produto span {
   display: block;
   font-size: 1.1em;
-  color: #d6336c;
+  color: #c961ed;
   margin-bottom: 15px;
 }
 
