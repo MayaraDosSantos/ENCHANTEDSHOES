@@ -41,7 +41,7 @@
   </main>
 
   <footer>
-    <p>Contato: contato@sapatilhasedanca.com.br | Instagram: @sapatilhasedanca</p>
+    <p>Contato: enchantedshoes@gmail.com.br | Instagram: @enchanted_shoes</p>
   </footer>
 </body>
 </html>
